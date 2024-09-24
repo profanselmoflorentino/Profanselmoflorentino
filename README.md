@@ -30,7 +30,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![profanselmoflorentino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=profanselmoflorentino&theme=default&hide_border=true)
+![profanselmoflorentino's Stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&theme=default&show_icons=true&hide_border=true&count_private=false)
 
 <!-- Portfolio -->
 ## Portfolio:
